@@ -1,19 +1,28 @@
-# Installation
+# [SDF08] Cache Bank Portfolio Piece
 
-```
-# Install dependencies
-npm install
+This is the readme file for the Cache Bank Portfolio Piece
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
+## Description
 
-# Compile Tailwind CSS
-npm run build
+The purpose of the project was to bridge our theoretical understating with practical application furthering our understanding of creating user-centric web pages.
 
-# Compile Tailwind CSS minified
-npm run build-minify
+## Design Choices
 
-```
+Seeing as though we had the UX/UI design provided, there wasnt much design choices I needed to make.
 
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+## Features
+
+Overall I was quite pleased with the way the Cache Bank Portfolio Piece came out, the features I am most proud of are:
+
+- the burger menu, learning how to created a responsive mobile navigation using both tailwind and javascript.
+
+## Technologies Used
+
+- Tailwind for styling the page
+- Javascript to create the functionality for the burger menu
+
+# Presentation Link
+
+https://docs.google.com/presentation/d/15ijezbdHnBxMUD6tPmPiY4GEBzK16GHJyMPCeilqTGU/edit?usp=sharing
+
+# Loom video Link
