@@ -26,3 +26,5 @@ Overall I was quite pleased with the way the Cache Bank Portfolio Piece came out
 https://docs.google.com/presentation/d/15ijezbdHnBxMUD6tPmPiY4GEBzK16GHJyMPCeilqTGU/edit?usp=sharing
 
 # Loom video Link
+
+https://www.loom.com/share/d74c2c281978455ea73ef75f410346a5?sid=f84990eb-956d-4333-8b83-82cd64af3029
